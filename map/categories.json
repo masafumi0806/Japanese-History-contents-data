@@ -1,0 +1,30 @@
+[
+	{
+		"id": "iseki",
+		"name": "遺跡",
+		"description": "人々の暮らしや祈り、権力の跡が、土の中から見つかった場所です。",
+		"themes": [
+			"kaizuka",
+			"kofun",
+			"iseki-other"
+		]
+	},
+	{
+		"id": "shiro",
+		"name": "城",
+		"description": "戦国時代から江戸時代にかけて、各地に築かれた城とその跡です。",
+		"themes": [
+			"meijo100",
+			"zoku-meijo100"
+		]
+	},
+	{
+		"id": "kaido",
+		"name": "街道・宿場",
+		"description": "人や物が行き交った道と、旅人が泊まった宿場町です。",
+		"themes": [
+			"tokaido53",
+			"nakasendo69"
+		]
+	}
+]
