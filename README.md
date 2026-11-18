@@ -10,7 +10,7 @@ map/
     ├── kaizuka.json
     └── kofun.json ...
 article/
-├── genres.json       歴史記事のジャンルと、その並び順
+├── genres.json       語り草のジャンルと、その並び順
 └── <ジャンルの id>/<記事の id>/index.md   記事(1記事1フォルダ。URL は /article/<ジャンル>/<記事>/)
 ```
 
